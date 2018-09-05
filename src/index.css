@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: sans-serif;
+  background: rgb(236, 234, 234);
+}
+.grid{
+  display: inline-table;
+  padding: 10px;
+  margin:10px;
+  background:rgb(42, 42, 41);
+  color: #fff;
+  box-shadow: 0 0 2px #000;
+  min-width: 30%;
+  max-width: 45%;
+}
