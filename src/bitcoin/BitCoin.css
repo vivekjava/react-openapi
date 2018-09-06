@@ -1,0 +1,17 @@
+
+.head{
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .table{
+    padding:3px;
+    border: 3px solid #fff;
+    margin: 10px;
+  }
+  td{
+    padding: 8px;
+  }
+  th{
+    padding: 10px;
+    border:2px solid #fff;
+  }
